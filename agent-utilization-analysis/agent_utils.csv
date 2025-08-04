@@ -1,0 +1,7 @@
+agent_id,date,tickets_handled,avg_tkts_per_agent,utilization_status
+A001,2025-08-01,1,1.33,Adequately util
+A002,2025-08-01,2,1.33,Adequately util
+A003,2025-08-01,1,1.33,Adequately util
+A001,2025-08-02,1,1.0,Adequately util
+A002,2025-08-02,0,1.0,Underutil
+A003,2025-08-02,2,1.0,Adequately util
